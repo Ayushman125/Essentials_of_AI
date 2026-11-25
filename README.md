@@ -14,6 +14,8 @@ This repository contains Jupyter Notebooks for the practical lab experiments con
 | **4(a)** | Proximity Measures by Attribute Type | Analysis of proximity and distance measures for various distinct attribute types. | [View Notebook](./EAI_Lab_4(a).ipynb) |
 | **4(b)** | Mixed-Type Attribute Proximity Measures | Calculating proximity measures on mixed-type datasets (Ordinal, Nominal, Asymmetric Binary, Numerical). | [View Notebook](./EAI_Lab_4(b).ipynb) |
 | **5** | Sample Size Determination & Goodness Evaluation | Implementation of sampling techniques (Random, Cluster, Stratified) and evaluation of best sample via MOCT/MOS goodness metrics. | [View Notebook](./EAI_Lab_5.ipynb) |
+| **6** | k_means clustering Implementation | Python script to implement K-Means Clustering, a centroid-based clustering technique. | [View Notebook](./EAI_lab_6.ipynb) |
+
 
 ---
 
